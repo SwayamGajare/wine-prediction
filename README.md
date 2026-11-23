@@ -87,4 +87,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - **Project Name:** Wine Prediction
 - **Domain:** Data Science and Machine Learning
 - **Project Type:** Academic Project
-- **Author:** Swayam
+- **Author:** Swayam Gajare
+  
